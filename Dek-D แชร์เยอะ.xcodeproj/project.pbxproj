@@ -1,0 +1,557 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 48;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6112C45A203D884000569810 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6112C459203D884000569810 /* AppDelegate.swift */; };
+		6112C45C203D884000569810 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6112C45B203D884000569810 /* ViewController.swift */; };
+		6112C45F203D884100569810 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6112C45D203D884100569810 /* Main.storyboard */; };
+		6112C461203D884100569810 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6112C460203D884100569810 /* Assets.xcassets */; };
+		6112C464203D884100569810 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6112C462203D884100569810 /* LaunchScreen.storyboard */; };
+		6112C46F203D884100569810 /* Dek_D_________Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6112C46E203D884100569810 /* Dek_D_________Tests.swift */; };
+		6112C47A203D884100569810 /* Dek_D_________UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6112C479203D884100569810 /* Dek_D_________UITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		6112C46B203D884100569810 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6112C44E203D884000569810 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6112C455203D884000569810;
+			remoteInfo = "Dek-D แชร์เยอะ";
+		};
+		6112C476203D884100569810 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 6112C44E203D884000569810 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 6112C455203D884000569810;
+			remoteInfo = "Dek-D แชร์เยอะ";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		6112C456203D884000569810 /* Dek-D แชร์เยอะ.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Dek-D แชร์เยอะ.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6112C459203D884000569810 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6112C45B203D884000569810 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		6112C45E203D884100569810 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		6112C460203D884100569810 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		6112C463203D884100569810 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6112C465203D884100569810 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6112C46A203D884100569810 /* Dek-D แชร์เยอะTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dek-D แชร์เยอะTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6112C46E203D884100569810 /* Dek_D_________Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dek_D_________Tests.swift"; sourceTree = "<group>"; };
+		6112C470203D884100569810 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6112C475203D884100569810 /* Dek-D แชร์เยอะUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Dek-D แชร์เยอะUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6112C479203D884100569810 /* Dek_D_________UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dek_D_________UITests.swift"; sourceTree = "<group>"; };
+		6112C47B203D884100569810 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6112C453203D884000569810 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6112C467203D884100569810 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6112C472203D884100569810 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		6112C44D203D884000569810 = {
+			isa = PBXGroup;
+			children = (
+				6112C458203D884000569810 /* Dek-D แชร์เยอะ */,
+				6112C46D203D884100569810 /* Dek-D แชร์เยอะTests */,
+				6112C478203D884100569810 /* Dek-D แชร์เยอะUITests */,
+				6112C457203D884000569810 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		6112C457203D884000569810 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				6112C456203D884000569810 /* Dek-D แชร์เยอะ.app */,
+				6112C46A203D884100569810 /* Dek-D แชร์เยอะTests.xctest */,
+				6112C475203D884100569810 /* Dek-D แชร์เยอะUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6112C458203D884000569810 /* Dek-D แชร์เยอะ */ = {
+			isa = PBXGroup;
+			children = (
+				6112C459203D884000569810 /* AppDelegate.swift */,
+				6112C45B203D884000569810 /* ViewController.swift */,
+				6112C45D203D884100569810 /* Main.storyboard */,
+				6112C460203D884100569810 /* Assets.xcassets */,
+				6112C462203D884100569810 /* LaunchScreen.storyboard */,
+				6112C465203D884100569810 /* Info.plist */,
+			);
+			path = "Dek-D แชร์เยอะ";
+			sourceTree = "<group>";
+		};
+		6112C46D203D884100569810 /* Dek-D แชร์เยอะTests */ = {
+			isa = PBXGroup;
+			children = (
+				6112C46E203D884100569810 /* Dek_D_________Tests.swift */,
+				6112C470203D884100569810 /* Info.plist */,
+			);
+			path = "Dek-D แชร์เยอะTests";
+			sourceTree = "<group>";
+		};
+		6112C478203D884100569810 /* Dek-D แชร์เยอะUITests */ = {
+			isa = PBXGroup;
+			children = (
+				6112C479203D884100569810 /* Dek_D_________UITests.swift */,
+				6112C47B203D884100569810 /* Info.plist */,
+			);
+			path = "Dek-D แชร์เยอะUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		6112C455203D884000569810 /* Dek-D แชร์เยอะ */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6112C47E203D884100569810 /* Build configuration list for PBXNativeTarget "Dek-D แชร์เยอะ" */;
+			buildPhases = (
+				6112C452203D884000569810 /* Sources */,
+				6112C453203D884000569810 /* Frameworks */,
+				6112C454203D884000569810 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Dek-D แชร์เยอะ";
+			productName = "Dek-D แชร์เยอะ";
+			productReference = 6112C456203D884000569810 /* Dek-D แชร์เยอะ.app */;
+			productType = "com.apple.product-type.application";
+		};
+		6112C469203D884100569810 /* Dek-D แชร์เยอะTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6112C481203D884100569810 /* Build configuration list for PBXNativeTarget "Dek-D แชร์เยอะTests" */;
+			buildPhases = (
+				6112C466203D884100569810 /* Sources */,
+				6112C467203D884100569810 /* Frameworks */,
+				6112C468203D884100569810 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6112C46C203D884100569810 /* PBXTargetDependency */,
+			);
+			name = "Dek-D แชร์เยอะTests";
+			productName = "Dek-D แชร์เยอะTests";
+			productReference = 6112C46A203D884100569810 /* Dek-D แชร์เยอะTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		6112C474203D884100569810 /* Dek-D แชร์เยอะUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6112C484203D884100569810 /* Build configuration list for PBXNativeTarget "Dek-D แชร์เยอะUITests" */;
+			buildPhases = (
+				6112C471203D884100569810 /* Sources */,
+				6112C472203D884100569810 /* Frameworks */,
+				6112C473203D884100569810 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				6112C477203D884100569810 /* PBXTargetDependency */,
+			);
+			name = "Dek-D แชร์เยอะUITests";
+			productName = "Dek-D แชร์เยอะUITests";
+			productReference = 6112C475203D884100569810 /* Dek-D แชร์เยอะUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		6112C44E203D884000569810 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0920;
+				LastUpgradeCheck = 0920;
+				ORGANIZATIONNAME = "Kantachat Puagkajee";
+				TargetAttributes = {
+					6112C455203D884000569810 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+					};
+					6112C469203D884100569810 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 6112C455203D884000569810;
+					};
+					6112C474203D884100569810 = {
+						CreatedOnToolsVersion = 9.2;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 6112C455203D884000569810;
+					};
+				};
+			};
+			buildConfigurationList = 6112C451203D884000569810 /* Build configuration list for PBXProject "Dek-D แชร์เยอะ" */;
+			compatibilityVersion = "Xcode 8.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 6112C44D203D884000569810;
+			productRefGroup = 6112C457203D884000569810 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				6112C455203D884000569810 /* Dek-D แชร์เยอะ */,
+				6112C469203D884100569810 /* Dek-D แชร์เยอะTests */,
+				6112C474203D884100569810 /* Dek-D แชร์เยอะUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		6112C454203D884000569810 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6112C464203D884100569810 /* LaunchScreen.storyboard in Resources */,
+				6112C461203D884100569810 /* Assets.xcassets in Resources */,
+				6112C45F203D884100569810 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6112C468203D884100569810 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6112C473203D884100569810 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		6112C452203D884000569810 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6112C45C203D884000569810 /* ViewController.swift in Sources */,
+				6112C45A203D884000569810 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6112C466203D884100569810 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6112C46F203D884100569810 /* Dek_D_________Tests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		6112C471203D884100569810 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6112C47A203D884100569810 /* Dek_D_________UITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		6112C46C203D884100569810 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6112C455203D884000569810 /* Dek-D แชร์เยอะ */;
+			targetProxy = 6112C46B203D884100569810 /* PBXContainerItemProxy */;
+		};
+		6112C477203D884100569810 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 6112C455203D884000569810 /* Dek-D แชร์เยอะ */;
+			targetProxy = 6112C476203D884100569810 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		6112C45D203D884100569810 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6112C45E203D884100569810 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		6112C462203D884100569810 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				6112C463203D884100569810 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6112C47C203D884100569810 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6112C47D203D884100569810 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6112C47F203D884100569810 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Dek-D แชร์เยอะ/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Mfireball.Dek-D---------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6112C480203D884100569810 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Dek-D แชร์เยอะ/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Mfireball.Dek-D---------";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		6112C482203D884100569810 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Dek-D แชร์เยอะTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Mfireball.Dek-D---------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dek-D แชร์เยอะ.app/Dek-D แชร์เยอะ";
+			};
+			name = Debug;
+		};
+		6112C483203D884100569810 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Dek-D แชร์เยอะTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Mfireball.Dek-D---------Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Dek-D แชร์เยอะ.app/Dek-D แชร์เยอะ";
+			};
+			name = Release;
+		};
+		6112C485203D884100569810 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Dek-D แชร์เยอะUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Mfireball.Dek-D---------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Dek-D แชร์เยอะ";
+			};
+			name = Debug;
+		};
+		6112C486203D884100569810 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Dek-D แชร์เยอะUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Mfireball.Dek-D---------UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Dek-D แชร์เยอะ";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		6112C451203D884000569810 /* Build configuration list for PBXProject "Dek-D แชร์เยอะ" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6112C47C203D884100569810 /* Debug */,
+				6112C47D203D884100569810 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6112C47E203D884100569810 /* Build configuration list for PBXNativeTarget "Dek-D แชร์เยอะ" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6112C47F203D884100569810 /* Debug */,
+				6112C480203D884100569810 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6112C481203D884100569810 /* Build configuration list for PBXNativeTarget "Dek-D แชร์เยอะTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6112C482203D884100569810 /* Debug */,
+				6112C483203D884100569810 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6112C484203D884100569810 /* Build configuration list for PBXNativeTarget "Dek-D แชร์เยอะUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6112C485203D884100569810 /* Debug */,
+				6112C486203D884100569810 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 6112C44E203D884000569810 /* Project object */;
+}
